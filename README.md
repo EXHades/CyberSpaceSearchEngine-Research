@@ -7,6 +7,8 @@
 ## Open Source
 * [LubyRuffy/fofa](https://github.com/LubyRuffy/fofa)
 * [natlas/natlas](https://github.com/natlas/natlas)
+* [cea-sec/ivre](https://github.com/cea-sec/ivre)
+* [lachesis](https://github.com/ps1dr3x/lachesis)
 
 
 
