@@ -15,7 +15,8 @@
 * [nmap](https://github.com/nmap/nmap)
 * [masscan](https://github.com/robertdavidgraham/masscan)
 * [zmap](https://github.com/zmap/zmap)
-* [xmap](https://github.com/idealeer/xmap)
+  * [zmapV6](https://github.com/tumi8/zmap)
+  * [xmap](https://github.com/idealeer/xmap)
 
 ### ComponentFingerprintDetect
 * [zgrab2](https://github.com/zmap/zgrab2)
