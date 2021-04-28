@@ -5,3 +5,4 @@
 * [ZMap: Fast Internet-Wide Scanning and its Security Applications](./ZMap%20Fast%20Internet-Wide%20Scanning%20and%20its%20Security%20Applications.pdf)
 * [Target Generation for Internet-wide IPv6 Scanning](./Target%20Generation%20for%20Internet-wide%20IPv6%20Scanning.pdf)
 * [LZR: Identifying Unexpected Internet Services](./LZR%20Identifying%20Unexpected%20Internet%20Services.pdf) - [stanford-esrg/lzr](https://github.com/stanford-esrg/lzr)
+* [Fast IPv6 Network Periphery Discovery andSecurity Implications](./Fast%20IPv6%20Network%20Periphery%20Discovery%20andSecurity%20Implications.pdf) - [xmap](https://github.com/idealeer/xmap)
