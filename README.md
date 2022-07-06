@@ -25,7 +25,7 @@
 
 ### Global large-scale scanning
 
-* [gps](https://github.com/stanford-esrg/gps) - Predicting IPv4 Services Across All Ports
+* [gps](https://github.com/stanford-esrg/gps) - Predicting IPv4 Services Across All Ports - [paper](https://lizizhikevich.github.io/assets/papers/gps.pdf)
   * [recommender-system-gps](https://github.com/stanford-esrg/recommender-system-gps)
 
 ## Research Data Repository
